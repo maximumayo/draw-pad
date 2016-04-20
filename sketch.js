@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    for (var i = 0; i < 256; i++) {
+    for (var i = 0; i < 400; i++) {
         $('#container').append('<div class="tile"></div>');
     }
 
