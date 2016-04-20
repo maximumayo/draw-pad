@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: #f9f2f4;
+}
+
+#container {
+    background-color: white;
+    height: 600px;
+    width: 600px;
+    margin: 20px auto;
+    border: 1px dashed black;
+}
+
+.tile {
+    width: 30px;
+    height: 30px;
+    float: left;
+}
