@@ -1,5 +1,5 @@
-# sketch-pad
+# draw-pad
 
 ### Project Notes
-* Basic sketch pad exercise using jQuery/Javascript/CSS
+* Basic draw pad exercise using jQuery/Javascript/CSS
 * An exercise from www.theodinproject.com
