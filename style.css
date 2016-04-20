@@ -16,3 +16,25 @@ body {
     height: 30px;
     float: left;
 }
+
+.btn {
+    color: white;
+    font-size: large;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+#rows {
+    color: black;
+}
+
+#new {
+    background-color: green;
+}
+
+#clear {
+    background-color: red;
+}

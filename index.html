@@ -2,16 +2,17 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sketch Pad</title>
+    <title>Draw Pad</title>
+    <link rel="shortcut icon" type="image/x-icon" href="images/minipad.png">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <link rel="stylesheet" href="style.css">
     <script src="sketch.js"></script>
 </head>
 <body>
 
-    <input type="number" placeholder="enter a numner" id="rows">
-    <button id="new" type="submit">create new</button>
-    <button id="clear" type="submit">erase all</button>
+    <input id="rows" class="btn" type="number" placeholder="enter a number">
+    <button id="new" class="btn" type="submit">create new</button>
+    <button id="clear" class="btn" type="submit">erase all</button>
     <div id="container"></div>
 
 </body>
