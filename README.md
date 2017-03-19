@@ -1,5 +1,7 @@
 # draw-pad
 
+Live Demo: http://maximumayo.github.io/draw-pad/
+
 ### Project Notes
 * Basic draw pad exercise using jQuery/Javascript/CSS
 * Move the mouse around to draw a line with random colors
